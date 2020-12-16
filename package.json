@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "node-dev server.js 8888"
+  },
+  "dependencies": {
+    "node-dev": "^6.2.0"
+  }
+}
